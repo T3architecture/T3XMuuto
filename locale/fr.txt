@@ -1,0 +1,13 @@
+#: locale=fr
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Sans titre 5
+
+## Media
+
+### Title
+panorama_47290011_4DD6_A4A8_41CB_107229661705.label = 360 QR code

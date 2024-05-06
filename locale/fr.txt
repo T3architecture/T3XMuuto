@@ -10,4 +10,4 @@ tour.name = T3xMuuto
 ## Media
 
 ### Title
-panorama_47290011_4DD6_A4A8_41CB_107229661705.label = 360 QR code
+panorama_402FE2B1_4DD3_A5E9_41AF_F73DA49C1E96.label = 360 QR code
